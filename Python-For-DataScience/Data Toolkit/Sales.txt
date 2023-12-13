@@ -1,2 +1,2 @@
-Garvit,gmail.com,875858249',1001,5 Star,10,10,100,Thu Jun 15 15:34:58 2023
-Joshi,gmail,8358850,1003,Candy,20,2,40,Thu Jun 15 15:35:19 2023
+garvit,4668,gthhn, Milky Bar,2,100,500,Thu Jun  8 20:53:00 2023
+Garvit,54457459,gdas@gmail.com, Cake,3,4,1200,Sat Jun 10 10:41:15 2023
