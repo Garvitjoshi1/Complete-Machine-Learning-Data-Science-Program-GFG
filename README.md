@@ -92,56 +92,36 @@ Feel free to explore each section, and let the learning journey begin! Happy cod
 
 ---
 
-**Note:** Please make sure to install the necessary libraries and dependencies mentioned in the course materials for a smooth learning experience.
 
 ## Get Started 🚀
 
 **Install Required Libraries:**
 
    Make sure you have Python and pip installed. Then, run the following command to install the necessary libraries:
-
-   ```bash
-    pip install -r requirements.txt 
    
+    pip install -r requirements.txt
+   This command will install all the necessary libraries mentioned in the requirements.txt file.
 
-This command will install all the libraries mentioned in the requirements.txt file.
+## Contribution Guidelines
+We appreciate contributions from the community! If you'd like to contribute to this repository, follow these steps:
 
-Contribute to this Repository:
+**Fork the repository: Click on the "Fork" button to create your own copy of the repository.**
+**Clone your forked repository:**
+1. Copy code
+   ```bash:
+    git clone https://github.com/your-username/data-science-complete-program.git
+2. Create a new branch for your changes:
+   ```bash:
+   git checkout -b feature/new-feature
+3. Make your changes and commit them:
+   ```bash:
+   git add .
+   git commit -m "Add new feature"  
+4. Push your changes to your fork:
+   ```bash:
+   git push origin feature/new-feature
+   Create a Pull Request (PR) from your fork to the main repository.
+5. Wait for your PR to be reviewed and merged!
+6. Please ensure that your code adheres to the existing style and follows best practices.
 
-We welcome contributions! To contribute to this repository, follow these steps:
-
-Fork the repository by clicking on the "Fork" button.
-
-Clone your forked repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/data-science-complete-program.git
-Create a new branch for your changes:
-
-bash
-Copy code
-git checkout -b feature/new-feature
-Make your changes and commit them:
-
-bash
-Copy code
-git add .
-git commit -m "Add new feature"
-Push your changes to your fork:
-
-bash
-Copy code
-git push origin feature/new-feature
-Create a Pull Request (PR) from your fork to the main repository.
-
-Wait for your PR to be reviewed and merged!
-
-Please ensure your code adheres to the existing style and follows best practices.
-
-Note: Please make sure to install the necessary libraries and dependencies mentioned in the course materials for a smooth learning experience.
-
-javascript
-Copy code
-
-Replace `feature/new-feature` with a branch name that describes your changes. Also, make su
+***Note: Install the necessary libraries and dependencies mentioned in the course materials for a smooth learning experience.***
