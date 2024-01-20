@@ -1,5 +1,6 @@
 # Complete-Machine-Learning-Data-Science-Program-GFG
 ## Certificate : [Download PDF](https://media.geeksforgeeks.org/courses/certificates/9c0c8535e9158b182465a6fd42a5d2b8.pdf)
+![Animated GIF](https://logicmojo.com/assets/dist/new_pages/images/data-science-intro.gif)
 # Data Science Complete Program 🚀
 
 Welcome to the comprehensive Data Science program that covers everything from Python basics to advanced Machine Learning and Artificial Intelligence. 📊🤖
